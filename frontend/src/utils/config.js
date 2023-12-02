@@ -1,2 +1,2 @@
 
-export const backendUrl ="http://localhost:8000";
+export const backendUrl ="https://spotify-clone-hc7e.onrender.com";
